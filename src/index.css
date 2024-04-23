@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-calendar::-webkit-calendar-picker-indicator {
+  @apply opacity-100;}
